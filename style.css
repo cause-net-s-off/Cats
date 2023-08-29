@@ -15,6 +15,30 @@
 }
 
 .p_main {
+    background: gainsboro;
+    color: darkslategrey;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, 
+                Arial, Noto Sans, Liberation Sans, sans-serif, Apple Color Emoji, 
+                Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
     padding: 25px;
+    margin: 0;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: left;
+}
 
+.highlight {
+    color: red;
+    font-weight: bold;
+}
+
+ul {
+    color: orangered;
+    padding: 50px 50px;
+}
+
+li {
+    color: green;
+    padding-left: 30px;
 }
