@@ -1,4 +1,4 @@
 # Cats
 First html+css+github training
 
-https://cause-net-s-off.github.io/cats/
+https://cause-net-s-off.github.io/Cats/
